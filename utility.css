@@ -1,0 +1,29 @@
+.container{
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+}
+.capital{
+    text-transform: uppercase;
+}
+.spacing{
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+
+/* .line-space{
+    line-
+} */
+.btn{
+    display: inline-block;
+    border-radius: 50px;
+    /* border: 2px solid black; */
+    padding: 1em 2.5em;
+    margin-top: 1.5em;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer;
+    outline: none;
+    
+}
